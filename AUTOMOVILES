@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>AUTOMOVILES</title>
+
+        <style>
+            body {
+                background-color: rgb(69, 212, 212);
+            }   
+           .base_color_Title {
+               color:rgb(185, 130, 28);
+           }
+           #Align {
+               text-align: center;
+           }
+           table, th, td {
+               border: 1px solid rgb(255, 251, 0);
+               border-collapse: collapse;
+               text-align: center;
+               background-color: rgb(0, 0, 0);
+           }
+           .contenedor {
+               display: flex;
+           }
+           .borde_contenedor {
+               border: 1px solid rgb(233, 11, 11);
+           }
+          </style> 
+        
+    </head>
+
+    <body>
+        <h1 id="Align" class="base_color_Title">AUTOMOVILES (NOVEDADES y TIPO DE VEHICULOS)</h1>
+
+        <div Align="center"> <img src="https://static.latamautos.com/ghost/seminuevos/2020/08/clasificacio-n-de-automo-viles.png"> </div> 
+
+        <div Align="center"> <img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/idKMMxenUBhXo87Y4SyBk_yH0W8=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3PLYCD3WOJC6LCH2LGJ7MAQGN4.jpg"> </div>
+        <p id="Align">Toyota se destaco este año nuevo al anunciar como propuesta que este año 2022 la mayoria de sus vehiculos como objetivo cuenten con un sistema hibrido refinado y con alta capacidad de potencia y calidad.</p>
+
+        <table style="width:100%">
+            <tr>
+                <th>TIPO DE VEHICULOS</th>
+                <th>DESCRIPCIÓN</th>
+            </tr>
+            <tr>
+                <td>4X4 O SUV</td>
+                <td>Aqui se establecen los vehiculos todo terreno y deportivos, con un sistema y estructura de seguridad mas rigido, ya que el enfasis de estos vehiculos es poder traspasar terrenos poco ortodoxos ya que pueden tener mayor estabilidad y control </td>
+                <div Align="center"> <img src="https://img.autocosmos.com/noticias/fotos/preview/NAZ_121f38d9ca11458fa649e21ade22b269.jpg"> </div>
+            </tr>
+            <tr>
+                <td>SEDAN</td>
+                <td>Pensados para familias y un desplazamiento comodo entre personas y lugares más rectificados, su facilidad de manejo y accesibilidad son lo mejor del marcado para la mayoria de la población</td>
+                <div Align="center"> <img src="https://memolira.com/wp-content/uploads/2020/06/Mejores-sedanes-familiares-en-mexico.jpg"> </div>
+            </tr>
+            <tr>
+                <td>SPORT, DESCAPOTABLES O COUPÉ</td>
+                <td>Vehiculos con un diseño vistoso y con caracteristicas de velocidad superiores a las de un sedan y un 4x4, utilizados más para tener una imagen sobresaliente y destacable a lo que se necesita en un automovil</td>
+                <div Align="center"> <img src="https://st1.uvnimg.com/54/bd/6126ebd445a090082eecaebdc853/carrosdeportivos-2020-060120-a.jpg"> </div>
+            </tr>
+            <tr>
+                <td>PICK UP</td>
+                <td>Todo aquel transporte de carga que sea camioneta entra en este apartado, ya que se caracterizan por su gran capacidad de carga y potencia, comparten similitudes con los 4x4 pero a un nivel mejorado, en este tipo de automoviles se puede usar para trabajo duro, arrastre, transporte y ciudad. De los vehiculos más completos en el mercado por su gran varidad de usos, seguirdad y resistencia</td>
+                <div Align="center"> <img src="https://i.ytimg.com/vi/fHpSBCT-RAc/maxresdefault.jpg"> </div>
+            </tr>
+            <tr>
+                <td>HATCHBACK</td>
+                <td>Comparte todo con los autos sedan, con la ligera diferencia de que se acorta su magnitud larga reduciendo la cajuela, veces aumentando su capacidad de velocidad y arranque, meramente es para un uso mas juvenil y que tenga mas facilidad de gurdado y conducción</td>
+                <div Align="center"> <img src="https://img.remediosdigitales.com/5dde11/hatchback-en-mexico/1366_2000.jpg"> </div>
+            </tr>
+        </table>
+
+
+        <p>
+            <img src="https://img.remediosdigitales.com/72147d/car-of-the-year-2022-primeros-candidatos/1366_2000.jpeg" width=400 height=210 Align="left">
+            Se anuncia el evento MEJOR AUTOMOVIL 2022, se tiene altas expectativas de dicho evento, ya que se tomara en cuenta la tecnologia hibrida y rendimiento. Asi como tradicionalmente se veran puntos criticos de un auto, como la seguridad, velocidad, estabilidad, diseño y estructura.
+            Se cree que las marcas con mas posibilidad de ganar son: MERCEDES-BENZ, NISSAN, VOLKSWAGEN, AUDI y GENESIS
+        </p>
+
+        
+
+
+
+    </body>
